@@ -36,18 +36,6 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Back-end e paixão
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Graciano&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Graciano&layout=compact&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
 ## 🌟 O Que Estou Fazendo Agora
 
 - 🔥 Aprofundando back-end no dia a dia
