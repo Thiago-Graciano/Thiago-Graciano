@@ -32,8 +32,7 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Back-end e paixão
 - 🏆 **Vencedor do Hackathon UTFPR 2024** - ainda no Ensino Médio
 - ☕ **Java** é minha linguagem favorita - foi a primeira e continua sendo a que mais exploro
 - 🎨 **Background em Design** - Figma, Photoshop e After Effects vieram antes do código e viraram diferencial
-- 🛠️ **Hardware** — experiência prática com Arduino, conectando código e mundo físico
-- 📈 **Mentalidade** — evoluindo a cada commit, esse perfil cresce junto comigo
+- 📈 **Mentalidade** - evoluindo a cada commit
 
 ---
 
@@ -51,7 +50,7 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Back-end e paixão
 
 ## 🌟 O Que Estou Fazendo Agora
 
-- 🔥 Aprofundando Java e back-end no dia a dia
+- 🔥 Aprofundando back-end no dia a dia
 - 📖 Estudando algoritmos e estruturas de dados pela graduação
 - 🛠️ Construindo projetos práticos para consolidar o que aprendo
 - 👀 Sempre de olho nas novidades e atualizações do mundo tech
@@ -82,6 +81,5 @@ Estou sempre aberto a:
 ---
 
 <div align="center">
-  <p><strong>⭐ Se gostou, deixe uma estrela nos meus repositórios!</strong></p>
   <p><em>"Build. Break. Learn. Repeat."</em></p>
 </div>
