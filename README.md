@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Bem-vindo ao meu universo dev</h1>
+  <h1>🚀 Bem-vindo ao meu perfil dev</h1>
   <p><strong>Estudante de Engenharia de Computação | Desenvolvedor Full Stack em Formação</strong></p>
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Construindo+experiências+digitais;Aprendendo+algo+novo+todo+dia)
