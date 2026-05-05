@@ -55,11 +55,13 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Back-end e paixão
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Graciano&layout=donut&theme=tokyonight&langs_count=8)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Graciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+| | |
+|---|---|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Graciano&layout=donut&theme=tokyonight&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thiago-Graciano&theme=tokyonight&locale=pt_BR) |
 
 </div>
+
+---
 
 ## 🛠️ Projetos
 
