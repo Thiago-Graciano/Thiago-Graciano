@@ -12,7 +12,7 @@
 Estudante de Engenharia de Computação na UTFPR, com foco em Back-end e paixão por aprender na prática. Gosto de resolver problemas reais com código e testar tudo que aprendo em projetos concretos.
 
 - 🏆 **Vencedor do Hackathon UTFPR 2024** - ainda no Ensino Médio
-- 🚀 **Trainee em Desenvolvimento** na [UNECT Jr](https://unect.com.br/) — empresa júnior de TI da UTFPR
+- 🚀 **Desenvolvedor** na [UNECT Jr](https://unect.com.br/) — empresa júnior de TI da UTFPR
 - ☕ **Java** é minha linguagem favorita - foi a primeira e continua sendo a que mais exploro
 - 🎨 **Background em Design** - Figma, Photoshop e After Effects vieram antes do código e viraram diferencial
 - 📈 **Mentalidade** - evoluindo a cada commit
@@ -57,7 +57,7 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Back-end e paixão
 
 | | |
 |---|---|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Graciano&layout=donut&theme=tokyonight&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thiago-Graciano&theme=tokyonight&locale=pt_BR) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thiago-Graciano&theme=tokyonight&locale=pt_BR) |
 
 </div>
 
