@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Thiago Graciano</h1>
-  <p><strong>Estudante de Engenharia de Computação | Developer em Formação</strong></p>
+  <p><strong>Estudante de Engenharia de Computação | Desenvolvedor Fullstack</strong></p>
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Construindo+experiências+digitais;Aprendendo+algo+novo+todo+dia)
 </div>
@@ -9,11 +9,11 @@
 
 ## 🎯 Sobre Mim
 
-Estudante de Engenharia de Computação na UTFPR, com foco em Back-end e paixão por aprender na prática. Gosto de resolver problemas reais com código e testar tudo que aprendo em projetos concretos.
+Estudante de Engenharia de Computação na UTFPR, com foco em Fullstack e construção de produtos digitais. Gosto de resolver problemas reais com código e testar tudo que aprendo em projetos concretos.
 
 - 🏆 **Vencedor do Hackathon UTFPR 2024** - ainda no Ensino Médio
 - 🚀 **Desenvolvedor** na [UNECT Jr](https://unect.com.br/) — empresa júnior de TI da UTFPR
-- ☕ **Java** é minha linguagem favorita - foi a primeira e continua sendo a que mais exploro
+- ☕ **Java** é minha linguagem favorita - foi a primeira que vi e continuo sendo a que mais exploro
 - 🎨 **Background em Design** - Figma, Photoshop e After Effects vieram antes do código e viraram diferencial
 - 📈 **Mentalidade** - evoluindo a cada commit
 
@@ -87,9 +87,8 @@ Bot de Discord com IA integrada — faz code review, responde dúvidas técnicas
 
 ## 🌟 O Que Estou Fazendo Agora
 
-- 📋 Desenvolvendo o **uTask 3.0** como trainee na UNECT Jr
 - 🤖 Desenvolvendo bots com IA integrada
-- 📖 Estudando JavaScript e React
+- 📖 Estudando JavaScript, React e Typescript
 - ☕ Aprofundando Java e estruturas de dados
 - 👀 Sempre de olho nas novidades do mundo tech
 
