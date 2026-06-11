@@ -55,9 +55,10 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Fullstack e constr
 
 <div align="center">
 
-| | |
-|---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thiago-Graciano&theme=tokyonight&locale=pt_BR) |
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Graciano&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiago-Graciano&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
