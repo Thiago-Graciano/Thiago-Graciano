@@ -100,7 +100,7 @@ Bot de Discord com IA integrada — faz code review, responde dúvidas técnicas
 
 ## 🎓 Formação
 
-**Engenharia de Computação** — 1º Período  
+**Engenharia de Computação** — 2º Período  
 *UTFPR - Campus Cornélio Procópio*
 
 ---
