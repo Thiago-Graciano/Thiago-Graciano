@@ -59,8 +59,8 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Fullstack e constr
 <div align="center">
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Graciano&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiago-Graciano&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thiago-Graciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thiago-Graciano&layout=compact&theme=dracula&langs_count=8"/>
 </p>
 
 </div>
