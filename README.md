@@ -127,6 +127,6 @@ Estou sempre aberto a:
   <p><em>"Build. Break. Learn. Repeat."</em></p>
 </div>
 
----
+## 🐍 Snake de Contribuições
 
 ![snake gif](https://github.com/Thiago-Graciano/Thiago-Graciano/blob/output/github-contribution-grid-snake.svg)
