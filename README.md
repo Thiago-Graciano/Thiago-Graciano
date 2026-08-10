@@ -79,6 +79,16 @@ Gerenciador de tarefas estilo Kanban — criado como projeto trainee na UNECT Jr
 
 ---
 
+### 🎨 Thumblify
+
+Gerador de thumbnails com IA desenvolvido para facilitar a criação de imagens para conteúdos digitais. A aplicação utiliza a API do Google Gemini para geração de conteúdo e Cloudinary para gerenciamento das imagens.
+
+**Stack:** React • Tailwind CSS • Node.js • Express • MongoDB • Google Gemini API • Cloudinary
+
+[![Repositório](https://img.shields.io/badge/Ver%20Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-Graciano/Thumblify)
+
+---
+
 ### 🤖 T. Ars Bot
 Bot de Discord com IA integrada — faz code review, responde dúvidas técnicas e analisa notícias tech com a personalidade direta e sarcástica de um dev sênior. Inspirado no TARS de Interestelar.
 
