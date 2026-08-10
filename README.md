@@ -13,7 +13,7 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Fullstack e constr
 
 - 🏆 **Vencedor do Hackathon UTFPR 2024** - ainda no Ensino Médio
 - 🚀 **Desenvolvedor** na [UNECT Jr](https://unect.com.br/) — empresa júnior de TI da UTFPR
-- ☕ **Java** é minha linguagem favorita - foi a primeira que vi e continuo sendo a que mais exploro
+- 💻 **Se existe uma ideia interessante, provavelmente vou acabar tentando transformá-la em código**
 - 🎨 **Background em Design** - Figma, Photoshop e After Effects vieram antes do código e viraram diferencial
 - 📈 **Mentalidade** - evoluindo a cada commit
 
@@ -29,6 +29,7 @@ Estudante de Engenharia de Computação na UTFPR, com foco em Fullstack e constr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -102,10 +103,10 @@ Bot de Discord com IA integrada — faz code review, responde dúvidas técnicas
 
 ## 🌟 O Que Estou Fazendo Agora
 
-- 🤖 Desenvolvendo bots com IA integrada
-- 📖 Estudando JavaScript, React e Typescript
-- ☕ Aprofundando Java e estruturas de dados
-- 👀 Sempre de olho nas novidades do mundo tech
+- 🚀 Construindo projetos Fullstack para transformar ideias em produtos reais
+- 📱 Aprofundando meus conhecimentos em desenvolvimento mobile
+- ⚡ Evoluindo constantemente e explorando novas stacks e tecnologias
+- 🤖 Explorando novas possibilidades com Inteligência Artificial em projetos pessoais
 
 ---
 
