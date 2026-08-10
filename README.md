@@ -126,3 +126,7 @@ Estou sempre aberto a:
 <div align="center">
   <p><em>"Build. Break. Learn. Repeat."</em></p>
 </div>
+
+---
+
+![snake gif](https://github.com/Thiago-Graciano/Thiago-Graciano/blob/output/github-contribution-grid-snake.svg)
