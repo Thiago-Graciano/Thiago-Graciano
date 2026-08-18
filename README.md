@@ -11,11 +11,11 @@
 
 Estudante de Engenharia de Computação na UTFPR, com foco em Fullstack e construção de produtos digitais. Gosto de resolver problemas reais com código e testar tudo que aprendo em projetos concretos.
 
-- 🏆 **Vencedor do Hackathon UTFPR 2023** - ainda no Ensino Médio
-- 🚀 **Desenvolvedor** na [UNECT Jr](https://unect.com.br/) — empresa júnior de TI da UTFPR
-- 💻 **Se existe uma ideia interessante, provavelmente vou acabar tentando transformá-la em código**
-- 🎨 **Background em Design** - Figma, Photoshop e After Effects vieram antes do código e viraram diferencial
-- 📈 **Mentalidade** - evoluindo a cada commit
+- 🏆 **Vencedor do Hackathon UTFPR 2023** - ainda no Ensino Médio.
+- 🚀 **Desenvolvedor** na [Unect Jr.](https://unect.com.br/) — empresa júnior de TI da UTFPR.
+- 💻 **Se existe uma ideia interessante, provavelmente vou acabar tentando transformá-la em código.**
+- 🎨 **Background em Design** - Figma, Photoshop e After Effects vieram antes do código e viraram diferencial.
+- 📈 **Mentalidade** - evoluindo a cada commit.
 
 ---
 
