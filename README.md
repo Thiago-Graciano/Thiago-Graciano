@@ -121,7 +121,7 @@ Bot de Discord com IA integrada — faz code review, responde dúvidas técnicas
 
 Estou sempre aberto a:
 
-- 💼 Oportunidades na área de tecnologia
+- 💼 Oportunidades na área de desenvolvimento de software
 - 🤔 Discussões sobre tecnologia e desenvolvimento
 - 🚀 Feedback e sugestões para melhorar
 
