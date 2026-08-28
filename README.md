@@ -125,8 +125,19 @@ Estou sempre aberto a:
 - 🤔 Discussões sobre tecnologia e desenvolvimento
 - 🚀 Feedback e sugestões para melhorar
 
-<div align="center">
+---
 
+## 🐍 Snake de Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago-Graciano/Thiago-Graciano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago-Graciano/Thiago-Graciano/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thiago-Graciano/Thiago-Graciano/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+<br>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-graciano-eng/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msgraciano28@gmail.com)
 
@@ -137,11 +148,3 @@ Estou sempre aberto a:
 <div align="center">
   <p><em>"Build. Break. Learn. Repeat."</em></p>
 </div>
-
-## 🐍 Snake de Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago-Graciano/Thiago-Graciano/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago-Graciano/Thiago-Graciano/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thiago-Graciano/Thiago-Graciano/output/github-contribution-grid-snake.svg">
-</picture>
